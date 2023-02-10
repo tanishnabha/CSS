@@ -1,0 +1,41 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background-color: #191919;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+header {
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 20px;
+
+}
+
+.heading-text h1 {
+    color: white;
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+
+}
+
+footer {
+    background-color: grey;
+    color: #fcfc;
+    letter-spacing: 1px;
+    line-height: 28px;
+    padding: 20px;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.lyrics p {
+    color: white;
+    font-size: 25px;
+    margin-bottom: 25px;
+    letter-spacing: 2px
+}
